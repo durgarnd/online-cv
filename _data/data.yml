@@ -36,6 +36,9 @@ career-profile:
     title: Career Profile
     summary: |
       Enthusiastic software engineer having 8+ years of IT experience Involved in developing and maintenance of Software products using Java, J2ee.
+Skills:
+      JAVA, J2ee, Multithreading, Spring-Boot, Microservices, Hibernate, Webservices(Rest&SOAP),JMS, Docker, AWS, Azure, Linux  
+     
 education:
     - degree: MCA
       university: Biju Patnaik University of Technology
